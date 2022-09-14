@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Chrisp1993/team-profile-generator.git"
+    "url": "git+https://github.com/rpethick0207/employee-tracker.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Chrisp1993/team-profile-generator/issues"
+    "url": "https://github.com/rpethick0207/employee-tracker/issues"
   },
-  "homepage": "https://github.com/Chrisp1993/team-profile-generator#readme"
+  "homepage": "https://github.com/rpethick0207/employee-tracker#readme"
 }
